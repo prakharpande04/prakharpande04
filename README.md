@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakhar Pande
-- 👀 I’m interested in App Development, Coding, Cooking
+- 👀 I’m interested in App Development, Backend Web Development, DevOps, etc 
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me
   Phone : 8275711340
